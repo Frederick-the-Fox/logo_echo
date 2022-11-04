@@ -109,7 +109,7 @@ echo -e "\033[1;33m \033[0m\c" # blank
 echo -e "\033[1;33m \033[0m\c" # blank
 echo -n "\033[1;33m\\" # Y\
 echo -e "\033[1;33m \033[0m\c" # blank
-echo -e "\033[1;37mall \033[0m\c" # all
+echo -e "\033[0;37mall \033[0m\c" # all
 echo -n "\033[1;33m\\" # Y\
 echo -e "\033[1;33m \033[0m\c" # blank
 echo -e "\033[1;33m \033[0m\c" # blank
@@ -138,7 +138,7 @@ echo -e "\033[1;33m \033[0m\c" # blank
 echo -e "\033[1;33m \033[0m\c" # blank
 echo -e "\033[1;33m \033[0m\c" # blank
 echo -e "\033[1;33m/\033[0m\c" # Y
-echo -e "\033[1;37mrights \033[0m\c" # all
+echo -e "\033[0;37mrights \033[0m\c" # all
 echo -n "\033[1;33m\\" # Y\
 echo -e "\033[1;33m \033[0m\c" # blank
 echo -e "\033[1;33m \033[0m\c" # blank 
@@ -162,7 +162,7 @@ echo -e "\033[1;33m \033[0m\c" # blank
 echo -e "\033[1;33m \033[0m\c" # blank
 echo -e "\033[1;33m \033[0m\c" # blank
 echo -e "\033[1;33m/\033[0m\c" # R
-echo -e "\033[1;37mreserved \033[0m\c" # all
+echo -e "\033[0;37mreserved \033[0m\c" # all
 echo -e "\033[1;33m|     \033[0m\c" # Y
 # \_ R
 echo -n "\033[1;32m\\" # R\
@@ -179,8 +179,8 @@ echo -e "\033[1;33m \033[0m\c" # blank
 echo -e "\033[1;31m✿\033[0m" # R
 
 
-echo -e "\033[1;33m  |  \033[0m\c" # Y
-echo -e "\033[1;37mWangYC \033[0m\c" # all
+echo -e "\033[1;33m  | \033[0m\c" # Y
+echo -e "\033[1;37mWangYC  \033[0m\c" # all
 echo -e "\033[1;33m/\033[0m\c" # R
 echo -e "\033[1;33m \033[0m\c" # blank
 echo -e "\033[1;33m \033[0m\c" # blank
@@ -199,7 +199,7 @@ echo -e "\033[0;32m\`|'\033[0m" # G
 echo -e "\033[1;33m \033[0m\c" # blank
 echo -e "\033[1;33m \033[0m\c" # blank
 echo -n "\033[1;33m\\" # R\
-echo -e "\033[1;37m  2022  \033[0m\c" # all
+echo -e "\033[0;37m  2022  \033[0m\c" # all
 echo -e "\033[1;33m/\033[0m\c" # R
 echo -e "\033[1;33m \033[0m\c" # blank
 echo -e "\033[1;33m \033[0m\c" # blank
@@ -219,7 +219,7 @@ echo -n "\033[1;33m\\" # Y\
 echo -e "\033[1;33m \033[0m\c" # blank
 echo -e "\033[1;33m \033[0m\c" # blank
 echo -e "\033[1;33m \033[0m\c" # blank
-echo -e "\033[1;37m© \033[0m\c" # all
+echo -e "\033[0;37m© \033[0m\c" # all
 echo -e "\033[1;33m/\033[m\c"
 echo -e "\033[1;33m \033[0m\c" # blank
 echo -e "\033[1;33m \033[0m\c" # blank
